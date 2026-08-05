@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HR Dashboard UI
 
 A premium-looking HR dashboard built with React, Vite, Tailwind CSS and Lucide icons. Useful as an interview-ready frontend demo.
@@ -99,3 +100,7 @@ Note: This will impact Vite dev & build performances.
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# hr-dashboard-ui
+A responsive HR Dashboard UI built with React, Vite, Tailwind CSS, and React Router.
+>>>>>>> c942027b20e9d543118c63fb08ff91c70ef1849b
